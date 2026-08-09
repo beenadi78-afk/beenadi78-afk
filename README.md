@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sonya. 👋
 
-<!--
-**beenadi78-afk/beenadi78-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Location: Tashkent, Uzbekistan 🇺🇿  
+💻 Front-End Developer passionate about building clean, responsive, and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎨 Focus: Crafting pixel-perfect layouts, responsive design, and smooth user experiences.
+- 📐 Workflow: Building modern, responsive websites from scratch with clean code.- ⚡ Currently: Deepening my knowledge in JavaScript, interactive UI components, and modern web tools.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- Frontend: HTML5, CSS3, SCSS, Tailwind CSS, JavaScript
+- Version Control: Git, GitHub
+
+---
+
+### 📫 Connect with me
+
+- Telegram: [@Satoru_SatoSugu](https://t.me/Satoru_SatoSugu)
+
+---
+
+✨ *Always open to practice, feedback, and exciting projects!*
